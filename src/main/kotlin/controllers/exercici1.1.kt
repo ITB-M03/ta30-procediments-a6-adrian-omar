@@ -7,6 +7,7 @@ import java.util.*
  * Dissenya un procediment mostraPunt que mostri per pantalla un punt. Un
  * punt on p.x val 2.0 i p.y val 0.2 es mostrarà en pantalla així: (2.000000,0.200000).
  */
+
 fun main() {
     val scanner = Scanner(System.`in`)
     print("Introdueix el valor de x: ")
